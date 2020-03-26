@@ -1,4 +1,5 @@
 module.exports = {
+    base: '/notesblogreco/',
     title: 'Just Fly',
     theme: 'reco',
     head: [
@@ -31,11 +32,11 @@ module.exports = {
                     {
                         text: '正在整理',
                         items: [
-                            { text: 'JS笔记', link: '/404/' },
-                            { text: 'vueJs', link: '/404/' },
-                            { text: 'AJAX', link: '/404/' },
-                            { text: '算法', link: '/404/' },
-                            { text: 'ES6', link: '/404/' }
+                            { text: 'JS笔记', link: '/javascript/' },
+                            { text: 'vueJs', link: '/vuejs/' },
+                            { text: 'AJAX', link: '/ajax/' },
+                            { text: '算法', link: '/algorithm/' },
+                            { text: 'ES6', link: '/es6/' }
                         ]
                     }
                 ]

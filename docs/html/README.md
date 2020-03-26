@@ -132,7 +132,7 @@ utf-8是目前最常用的字符集编码方式，常用的字符集编码方式
 
 显示效果如下：
 
-  <img src="/notesblog/h.png" />
+  <img src="/notesblogreco/h.png" />
 
 **小结 :**
 
@@ -216,7 +216,7 @@ span 跨度，跨距；范围
 
 在网页中，有时需要为文字设置粗体、斜体或下划线效果，这时就需要用到HTML中的文本格式化标签，使文字以特殊的方式显示。
 
-<img src="/notesblog/tab.png" />
+<img src="/notesblogreco/tab.png" />
 
 **区别：**
 
@@ -249,7 +249,7 @@ span 跨度，跨距；范围
 
 该语法中src属性用于指定图像文件的路径和文件名，他是img标签的必需属性。
 
-<img src="/notesblog/img.png" />
+<img src="/notesblogreco/img.png" />
 
 border 一般会用css来做
 
@@ -439,7 +439,7 @@ border 一般会用css来做
 
  一些特殊的符号，我们在 html 里面很难或者不方便直接使用，我们此时可以使用下面的替代代码。
 
-<img src="/notesblog/zifu.png" />
+<img src="/notesblogreco/zifu.png" />
 
 **虽然有很多，但是我们平时用的比较较少，重点记住 空格 大于号 小于号 就可以了，剩下的回来查阅。**
 
@@ -486,7 +486,7 @@ XHTML 是更严格更纯净的 HTML 代码。
 
 ## 9.表格 table
 
-<img src="/notesblog/ttt.png"  width="600" />
+<img src="/notesblogreco/ttt.png"  width="600" />
 
 
 
@@ -498,7 +498,7 @@ XHTML 是更严格更纯净的 HTML 代码。
 
 **特别是后台展示数据的时候表格运用是否熟练就显得很重要**，一个清爽简约的表格能够把繁杂的数据表现得很有条理，虽然 div 布局也可以做到，但是总没有表格来得方便。
 
-<img src="/notesblog/table.png" />
+<img src="/notesblogreco/table.png" />
 
 
 ### 9.1 创建表格
@@ -528,7 +528,7 @@ XHTML 是更严格更纯净的 HTML 代码。
 
 4. 字母 td 指表格数据（table data），即数据单元格的内容，现在我们明白，表格最合适的地方就是用来存储数据的。
 
-<img src="/notesblog/07table基本结构.jpg">
+<img src="/notesblogreco/07table基本结构.jpg">
 
 **总结：**
 
@@ -542,15 +542,15 @@ XHTML 是更严格更纯净的 HTML 代码。
 
 表格有部分属性不常用，重点记住 cellspacing 、 cellpadding即可。
 
-<img src="/notesblog/tt.png" />
+<img src="/notesblogreco/tt.png" />
 
 我们经常有个说法，是三参为0，平时开发的我们这三个参数  border  cellpadding  cellspacing  为 0。
 
-<img src="/notesblog/07table表格属性.jpg">
+<img src="/notesblogreco/07table表格属性.jpg">
 
 **案例1：**
 
-<img src="/notesblog/表格效果01.png">
+<img src="/notesblogreco/表格效果01.png">
 
 ```html
 <table width="500" height="300" border="1" cellpadding="20" cellspacing="0" align="center">
@@ -570,13 +570,13 @@ XHTML 是更严格更纯净的 HTML 代码。
 - 语法：
   - 只需用表头标签&lt;th&gt;</th&gt;替代相应的单元格标签&lt;td&gt;</td&gt;即可。 
 
- <img src="/notesblog/th.png" />
+ <img src="/notesblogreco/th.png" />
 
 **案例2：**
 
 ​	效果图
 
-<img src="/notesblog/tht.png" />
+<img src="/notesblogreco/tht.png" />
 
 ​	代码：
 
@@ -626,14 +626,14 @@ XHTML 是更严格更纯净的 HTML 代码。
 
 合并单元格是我们比较常用的一个操作，但是不会合并的很复杂。
 
-<img src="/notesblog/he.jpg" />
+<img src="/notesblogreco/he.jpg" />
 
 ####  9.5.1 合并单元格2种方式
 
 * 跨行合并：rowspan="合并单元格的个数"      
 * 跨列合并：colspan="合并单元格的个数"
 
-<img src="/notesblog/08table合并单元格.jpg">
+<img src="/notesblogreco/08table合并单元格.jpg">
 
 #### 9.5.2 合并单元格顺序
 
@@ -673,7 +673,7 @@ XHTML 是更严格更纯净的 HTML 代码。
 ```
 
 
-<img src="/notesblog/thead.png" />
+<img src="/notesblogreco/thead.png" />
 
 **注意：**
 
@@ -737,9 +737,9 @@ XHTML 是更严格更纯净的 HTML 代码。
 
 用的还可以：
 
-<img src="/notesblog/mix.png" />
+<img src="/notesblogreco/mix.png" />
 
-<img src="/notesblog/09自定义列表.jpg">
+<img src="/notesblogreco/09自定义列表.jpg">
 
 ### 10.4 列表总结
 
@@ -755,7 +755,7 @@ XHTML 是更严格更纯净的 HTML 代码。
 
 现实中的表单，类似我们去银行办理信用卡填写的单子。 如下图
 
-<img src="/notesblog/car.jpg"  width="500" />
+<img src="/notesblogreco/car.jpg"  width="500" />
 
 **作用：**
 
@@ -767,7 +767,7 @@ XHTML 是更严格更纯净的 HTML 代码。
 >在HTML中，一个完整的表单通常由表单控件（也称为表单元素）、提示信息和表单域3个部分构成。
 >```
 
-<img src="/notesblog/bd.png" />
+<img src="/notesblogreco/bd.png" />
 
  **表单控件：**
 
@@ -796,7 +796,7 @@ XHTML 是更严格更纯净的 HTML 代码。
 
 - 常用属性：
 
-<img src="/notesblog/input.png" />
+<img src="/notesblogreco/input.png" />
 
 
 
@@ -895,7 +895,7 @@ label 标签为 input 元素定义标注（标签）。
 
 ### 11.3 textarea控件(文本域)
 
-<img src="/notesblog/textarea.png" />
+<img src="/notesblogreco/textarea.png" />
 
 - 语法：
 
@@ -924,7 +924,7 @@ label 标签为 input 元素定义标注（标签）。
 
 如果有多个选项让用户选择，为了节约空间，我们可以使用select控件定义下拉列表.
 
-<img src="/notesblog/sele.png" />
+<img src="/notesblogreco/sele.png" />
 
 **语法：**
 
