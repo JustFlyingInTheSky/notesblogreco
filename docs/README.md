@@ -18,12 +18,17 @@ features:
 ---
 
 <center><font size=5>Hello, world!</font></center>
-<center><font size=5>我要触摸这个世界!</font></center>
-<center><font size=5>终将翱翔!</font></center>
-<center><font size=5>努力学习!</font></center>
-<center><font size=5>加油!</font></center>
+
+<center><font size=5>既然选择了远方，便只顾风雨兼程</font></center>
+
+<center><font size=5>既然目标是地平线，留给世界的只能是背影</font></center>
+
+<center><font size=5>山顶对我们半山腰的人来说并不遥远。</font></center>
+
 <center><font size=5>我要登上山顶，看到那边的风光!</font></center>
+
 <center><font size=5>我们这个世界，从不会给一个伤心的落伍者颁发奖牌!</font></center>
+
 <center><font size=5>勤奋是我生命的密码，终能译出我一部壮丽的史诗!</font></center>
+
 <center><font size=5>志在峰巅的攀登者，不会陶醉在沿途的某个脚印之中!</font></center>
-<center><font size=5>我是黑体，绿色，尺寸为20</font></center>
