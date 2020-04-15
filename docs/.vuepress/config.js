@@ -34,9 +34,16 @@ module.exports = {
                         items: [
                             { text: 'JS笔记', link: '/javascript/' },
                             { text: 'vueJs', link: '/vuejs/' },
-                            { text: 'AJAX', link: '/ajax/' },
+                            { text: 'AJAX', link: '/ajax/' }
+
+                        ]
+                    },
+                    {
+                        text: '稍后整理',
+                        items: [
                             { text: '算法', link: '/algorithm/' },
-                            { text: 'ES6', link: '/es6/' }
+                            { text: 'ES6', link: '/es6/' },
+                            { text: 'Webpack', link: '/Webpack/' }
                         ]
                     }
                 ]
