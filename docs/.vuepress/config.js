@@ -43,7 +43,8 @@ module.exports = {
                         items: [
                             { text: '算法', link: '/algorithm/' },
                             { text: 'ES6', link: '/es6/' },
-                            { text: 'Webpack', link: '/Webpack/' }
+                            { text: 'Webpack', link: '/webpack/' },
+                            { text: 'NodeJs', link: '/node/' }
                         ]
                     }
                 ]
